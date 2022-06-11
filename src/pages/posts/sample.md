@@ -39,7 +39,8 @@ React.render(
 ```
 
 Pretty neat, eh?
-<AlertWidget client:visible></AlertWidget>
+<!-- <AlertWidget client:visible></AlertWidget> -->
+<AlertWidget></AlertWidget>
 
 ## Tables?
 
