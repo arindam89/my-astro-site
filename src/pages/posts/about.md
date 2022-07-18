@@ -4,7 +4,7 @@ setup: |
   import AlertWidget from '../../components/alert.jsx'
 ---
 
-# My Markdown Title
+# About this website
 
 Once again the default is stretch, other than for items with an intrinsic `aspect ratio`. This means that by default, grid items will cover their grid area, unless you change that by setting alignment. The first item in the example demonstrates this default alignment:[^1]
 [^1]: Here is the footnote.
